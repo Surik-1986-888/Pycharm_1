@@ -1,4 +1,4 @@
-text = 'File Write Python Operations - Read and  to files with Python'
+text = 'File Write Python gi - Read and  to files with Python'
 x = text.split()
 lengs_world = len(x[0])
 world = str()
